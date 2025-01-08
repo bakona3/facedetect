@@ -110,7 +110,6 @@ face-mask-detection/
 ├── real_time_detection.py   # Main script for real-time detection
 ├── inference_yolo.py        # YOLO inference script
 ├── inference_ssd.py         # SSD inference script
-├── evaluation.py            # Script for model evaluation
 ├── README.md                # Project documentation
 └── requirements.txt         # List of dependencies
 ```
